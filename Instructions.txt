@@ -1,0 +1,20 @@
+1. The Program is build using Eclipse IDE.
+
+2. Please run the source code in Eclipse IDE with JDK version 1.6 or higher(preferably 1.8).
+
+3. The input file names are hard coded and these are the ones that were provided in the blackboard. They can be found in the folder CreationalPatterns and have name as follows:
+	- FoodItemData.xml
+	- FoodItemData.json
+
+4. When prompted for entering the country name, please enter “US” or “GB” as mentioned in the bracket while requesting for country name. Characters are case sensitive. 
+
+5. When prompted for entering the type of menu needed, please enter “Diner” or “Evening Only” or “All Day” exactly as mentioned in the bracket while requesting for menu type. Space between Evening and Only and All and Day is required. Characters are case sensitive. 
+
+6. When prompted for entering the format of menu needed, please enter “HTML” or “Plain Text” or “XML” exactly as mentioned in the bracket while requesting for menu type. Space between Plain and Text is required. Characters are case sensitive. 
+
+7. The output files will be Menu.txt, Menu.html, Menu.xml and they will be generated in the folder CreationalPatterns, the same location where the input files can be found.
+Note: Every time a file is generated, it will result in overwriting of previous file if already present in that location.
+
+For better understanding of how input should be put, an image with this instruction document is provided which can be found in the folder CreationalPatterns. Name of the image file is Sample.
+
+Thank you. 
